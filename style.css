@@ -83,7 +83,7 @@ header {
 /* 4. Hero Banner */
 .hero-banner {
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                      url('water-droplets.png.png'); 
+                      url('images/water-droplets.png.png'); 
     background-size: cover;
     background-position: center;
     color: var(--pure-white);
@@ -173,14 +173,14 @@ header {
 }
 
 /* Background Images for Services */
-.res-com-bg   { background-image: url('residential.png'); }
-.install-bg   { background-image: url('plumbing.png'); }
-.leak-bg      { background-image: url('leak.png.png'); }
-.drain-bg     { background-image: url('drain.png'); }
-.tank-bg      { background-image: url('tank.png'); }
-.kitchen-bg   { background-image: url('bathroom.png'); }
-.heater-bg    { background-image: url('hotwater.png'); }
-.emergency-bg { background-image: url('emergency.png'); }
+.res-com-bg   { background-image: url('images/residential.png'); }
+.install-bg   { background-image: url('images/plumbing.png'); }
+.leak-bg      { background-image: url('images/leak.png.png'); }
+.drain-bg     { background-image: url('images/drain.png'); }
+.tank-bg      { background-image: url('images/tank.png'); }
+.kitchen-bg   { background-image: url('images/bathroom.png'); }
+.heater-bg    { background-image: url('images/hotwater.png'); }
+.emergency-bg { background-image: url('images/emergency.png'); }
 
 /* 6. About Section */
 .about-section {
